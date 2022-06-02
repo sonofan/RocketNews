@@ -1,0 +1,82 @@
+:root {
+  --cor1: #5cdb94;   
+  --cor2: #f76d6d;   
+  --cor3: #a8d1e7;
+  --cor4: #f7e9a0;
+  --corfonte: antiquewhite
+}
+*{
+  margin: 0;
+}
+
+.bigdiv{
+  background-image: linear-gradient(to bottom right, #183864, #c120a0);
+  display: flex;
+  height: 100vh;
+}
+
+.rocketnews{
+  background-color: transparent;
+  margin-top: 30vh;
+  margin-left: 37vh;
+  font-family: 'Fredoka', sans-serif;
+  font-family: 'Nunito', sans-serif;
+  margin-bottom: 5vh;
+}
+
+.texto{
+  background-color: transparent;
+  font-family: 'Fredoka', sans-serif;
+  font-family: 'Nunito', sans-serif;
+  margin-left: 20vh;
+  margin-bottom: 5vh;
+}
+
+.form{
+  margin-left: 35vh;
+  background-color: #183864;
+  border-radius: 10px;
+}
+
+.forml{
+  margin-left: 38vh;
+  font-family: 'Fredoka', sans-serif;
+  font-family: 'Nunito', sans-serif;
+  border-radius: 10px;
+  width: 200px;
+}
+
+.boi{
+  font-family: 'Fredoka', sans-serif;
+  font-family: 'Nunito', sans-serif;
+  margin-left: 32vh;
+}
+
+.botao{
+  background-color: #f7e9a0;
+  border-radius: 10px;
+}
+
+.botao:hover{
+  background-color: #c120a0;
+}
+
+.yulipe{
+  width: 90vh;
+  display: flex;
+}
+
+.div1{
+  height: 100vh;
+  width: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.div2{
+  height: 100vh;
+  width: 100vh;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
